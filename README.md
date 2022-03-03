@@ -1,4 +1,6 @@
-### Hi there 👋
+# О проекте
+
+Это страница курса "Информационные технологии в естественнонаучных исследованиях".
 
 <!--
 **orelgym1/orelgym1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
